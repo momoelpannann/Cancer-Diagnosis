@@ -1,5 +1,3 @@
-# Mohamed Elpannann 40251343
-# Assignment 2
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
